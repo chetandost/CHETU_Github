@@ -1,12 +1,10 @@
 package GitHub;
 
-public class Practice_github {
+public class github_practice {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hi good morning");
-		
-		
+	System.out.println("i am chetan");
 		
 
 	}
